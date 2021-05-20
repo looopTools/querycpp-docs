@@ -1,0 +1,10 @@
+# Emacs tmp files
+*~
+
+# Latex Compilation files
+*.aux
+*.log
+
+# PDF
+
+*.pdf
