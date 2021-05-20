@@ -1,6 +1,11 @@
 # Emacs tmp files
 *~
 
+# Emacs auctex
+
+auto/
+*/auto/
+
 # Latex Compilation files
 *.aux
 *.log
